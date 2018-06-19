@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>oodle.demo</groupId>
 	<artifactId>oodle</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<name>OODLE</name>
 	<packaging>pom</packaging>
 	<description>OODLE ODT Project</description>
