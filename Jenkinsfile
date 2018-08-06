@@ -1,5 +1,6 @@
 env.dockerimagename="buildon/buildon:v2"
-def jupiter_host='34.200.55.25'
+//def jupiter_host='34.200.55.25'
+def jupiter_jost='awseb-e-a-awsebloa-1kk591tzzgqvb-372758977.us-east-1.elb.amazonaws.com'
 def talend_cmd_host='34.237.156.239'
 def talend_cmd_user='admin@company.com'
 node {
