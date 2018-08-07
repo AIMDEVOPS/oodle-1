@@ -34,9 +34,9 @@ node {
       cd "${WORKSPACE}/OODLE/"
       ls -ltr
       pwd
-      #set +e
+      set +e
       mvn deploy -fn -e -s settings.xml
-      #set +e
+      set +e
     """
     }
     stage ('Executing the tests') {
